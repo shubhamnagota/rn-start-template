@@ -29,9 +29,9 @@ This template follows a very simple project structure:
 - `index.js`: Entry point of your application as per React-Native standards.
 
 ## Screenshot
-<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_1.png" width="400"/>
-<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_2.png" width="400"/>
-<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_3.png" width="400"/>
+![Alt text](/screenshots/Screenshot_1.png?raw=true "Screenshot1")
+![Alt text](/screenshots/Screenshot_2.png?raw=true "Screenshot2")
+![Alt text](/screenshots/Screenshot_3.png?raw=true "Screenshot3")
 
 ## Getting Started
 
