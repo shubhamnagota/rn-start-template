@@ -22,16 +22,16 @@ This template follows a very simple project structure:
   - `navigation`: Folder to store the navigators.
   - `screens`: Folder that contains all your application screens/features.
   - `store`: Folder to put all redux middlewares and the store.
-	- `reducers`: This folder should have all your reducers, and expose the combined result.
+	- `reducers`: This folder should have all your reducers, and expose the combined result. 
     - `selectors`: Folder to store your selectors for each reducer.
   - `AppStyles.js`: Folder to store all the styling concerns related to the application theme.
   - `App.js`: Main component that starts your whole app.
 - `index.js`: Entry point of your application as per React-Native standards.
 
 ## Screenshot
-![](screenshots/Screenshot_1.png)
-![](screenshots/Screenshot_2.png)
-![](screenshots/Screenshot_3.png)
+<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_1.png" width="400"/>
+<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_2.png" width="400"/>
+<img src="https://github.com/ybardouski/rn-start-template/tree/main/screenshots/Screenshot_3.png" width="400"/>
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ This template follows a very simple project structure:
 
 ```bash
 # Clone the repo
-git clone https://github.com/cloudstream531/RNAppStartTemplate.git
+git clone https://github.com/ybardouski/rn-start-template.git
 
 # Navigate to clonned folder and Install dependencies
 cd rn_app_starter && yarn install
