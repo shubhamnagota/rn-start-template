@@ -28,11 +28,6 @@ This template follows a very simple project structure:
   - `App.js`: Main component that starts your whole app.
 - `index.js`: Entry point of your application as per React-Native standards.
 
-## Screenshot
-![Alt text](/screenshots/Screenshot_1.png?raw=true "Screenshot1")
-![Alt text](/screenshots/Screenshot_2.png?raw=true "Screenshot2")
-![Alt text](/screenshots/Screenshot_3.png?raw=true "Screenshot3")
-
 ## Getting Started
 
 #### Clone and Install
@@ -59,3 +54,9 @@ Or, if you prefer Android:
 ```
 yarn run:android
 ```
+
+## Screenshot
+![Alt text](/screenshots/Screenshot_1.png?raw=true "Screenshot1")
+![Alt text](/screenshots/Screenshot_2.png?raw=true "Screenshot2")
+![Alt text](/screenshots/Screenshot_3.png?raw=true "Screenshot3")
+
